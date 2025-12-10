@@ -1,3 +1,7 @@
 Fazendo o curso de Git e GitHub
 aprendendo
 testando git clone
+
+a
+b
+c
